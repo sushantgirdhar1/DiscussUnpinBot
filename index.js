@@ -13,7 +13,7 @@ bot.catch(console.log);
 
 bot.command([`start`, `help`], ctx => {
     ctx.reply(
-        `Hi, I'm a bot to unpin/repin messages in your group when you post on the connected channel. I will automatically check for what message you want to pin so you don't have to worry about it!`
+        `Hi, I'm a bot to unpin/repin messages in your group when you post on the connected channel. I will automatically check for what message you want to pin so you don't have to worry about it!..............My Support Channel is @ebruiser.`
     );
 });
 
